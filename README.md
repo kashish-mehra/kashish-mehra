@@ -1,4 +1,5 @@
 Hi there, I'm Kashish! 👋
+
 Aspiring Developer | Learning and Building
 
 🌱 I'm currently learning programming and web development.
@@ -8,6 +9,7 @@ Aspiring Developer | Learning and Building
 🎯 My goal is to become a better developer every day.
 
 Languages and Tools
+
 HTML
 CSS
 JavaScript
